@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Text, View, ScrollView, FlatList } from 'react-native';
-import { Card } from 'react-native-elements';
 import { DISHES } from '../shared/dishes';
 import { COMMENT } from '../shared/comments';
 import { Card, Icon } from 'react-native-elements';
