@@ -12,7 +12,7 @@ function RenderItem(props) {
     if (item != null) {
         return(
             <Card
-                featuredTitle={item.name}
+                // featuredTitle={item.name}
                 featuredSubtitle={item.designation}
                 image={require('./images/uthappizza.png')}>
                 <Text
